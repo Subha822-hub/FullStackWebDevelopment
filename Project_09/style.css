@@ -1,0 +1,15 @@
+@import url('https://fonts.google.com/specimen/Libre+Baskerville');
+
+*
+{
+    background-color: black;
+    color: white;
+    font-family: 'Libre Baskerville', serif;
+    text-align: center;
+
+}
+img
+{
+    margin-top: 50px;
+    border: 2px solid white;
+}
